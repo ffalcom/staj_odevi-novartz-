@@ -1,0 +1,13 @@
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\bin\Debug\netcoreapp3.1\staj_ödevi_.exe
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\bin\Debug\netcoreapp3.1\staj_ödevi_.deps.json
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\bin\Debug\netcoreapp3.1\staj_ödevi_.runtimeconfig.json
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\bin\Debug\netcoreapp3.1\staj_ödevi_.runtimeconfig.dev.json
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\bin\Debug\netcoreapp3.1\staj_ödevi_.dll
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\bin\Debug\netcoreapp3.1\staj_ödevi_.pdb
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\obj\Debug\netcoreapp3.1\staj_ödevi_.csprojAssemblyReference.cache
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\obj\Debug\netcoreapp3.1\staj_ödevi_.AssemblyInfoInputs.cache
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\obj\Debug\netcoreapp3.1\staj_ödevi_.AssemblyInfo.cs
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\obj\Debug\netcoreapp3.1\staj_ödevi_.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\obj\Debug\netcoreapp3.1\staj_ödevi_.dll
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\obj\Debug\netcoreapp3.1\staj_ödevi_.pdb
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_\staj_ödevi_\obj\Debug\netcoreapp3.1\staj_ödevi_.genruntimeconfig.cache

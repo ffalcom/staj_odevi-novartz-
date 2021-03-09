@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staj_ödevi_form", "staj_ödevi_form\staj_ödevi_form.csproj", "{DB921E60-8362-4B35-8E3F-30AB75B4AE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB921E60-8362-4B35-8E3F-30AB75B4AE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB921E60-8362-4B35-8E3F-30AB75B4AE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB921E60-8362-4B35-8E3F-30AB75B4AE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB921E60-8362-4B35-8E3F-30AB75B4AE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E1EE6C-88B9-4E6D-87ED-3579743BC981}
+	EndGlobalSection
+EndGlobal

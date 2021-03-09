@@ -1,0 +1,10 @@
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\bin\Debug\staj_ödevi_form.exe.config
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\bin\Debug\staj_ödevi_form.exe
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\bin\Debug\staj_ödevi_form.pdb
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\obj\Debug\staj_ödevi_form.csprojAssemblyReference.cache
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\obj\Debug\staj_ödevi_form.Properties.Resources.resources
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\obj\Debug\staj_ödevi_form.csproj.GenerateResource.cache
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\obj\Debug\staj_ödevi_form.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\obj\Debug\staj_ödevi_form.exe
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\obj\Debug\staj_ödevi_form.pdb
+D:\Dosyalar\Yazılımlar\VS19\staj_ödevi_form\staj_ödevi_form\obj\Debug\staj_ödevi_form.frm_hmkcalculated.resources
